@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\Git\C++\baekjoon\2581_소수\2581_소수\main.cpp(18,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\Git\C++\baekjoon\2581_소수\2581_소수\main.cpp(34,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  2581_소수.vcxproj -> D:\Git\C++\baekjoon\2581_소수\Debug\2581_소수.exe
