@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\Git\C++\baekjoon\1018_체스판다시칠하기\1018_체스판다시칠하기\main.cpp(29,20): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+D:\Git\C++\baekjoon\1018_체스판다시칠하기\1018_체스판다시칠하기\main.cpp(31,21): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+  1018_체스판다시칠하기.vcxproj -> D:\Git\C++\baekjoon\1018_체스판다시칠하기\Debug\1018_체스판다시칠하기.exe
