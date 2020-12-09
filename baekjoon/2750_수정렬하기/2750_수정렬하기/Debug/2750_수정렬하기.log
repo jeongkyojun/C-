@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\Git\C++\baekjoon\2750_수정렬하기\2750_수정렬하기\main.cpp(21,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\Git\C++\baekjoon\2750_수정렬하기\2750_수정렬하기\main.cpp(29,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  2750_수정렬하기.vcxproj -> D:\Git\C++\baekjoon\2750_수정렬하기\Debug\2750_수정렬하기.exe
