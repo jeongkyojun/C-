@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\Git\C++\baekjoon\10989_수정렬하기3\10989_수정렬하기3\main.cpp(6,44): warning C4101: 'B' :참조되지 않은 지역 변수입니다.
+D:\Git\C++\baekjoon\10989_수정렬하기3\10989_수정렬하기3\main.cpp(6,22): warning C4101: 'c_sum' :참조되지 않은 지역 변수입니다.
+D:\Git\C++\baekjoon\10989_수정렬하기3\10989_수정렬하기3\main.cpp(6,35): warning C4101: 'A' :참조되지 않은 지역 변수입니다.
+  10989_수정렬하기3.vcxproj -> D:\Git\C++\baekjoon\10989_수정렬하기3\Debug\10989_수정렬하기3.exe
