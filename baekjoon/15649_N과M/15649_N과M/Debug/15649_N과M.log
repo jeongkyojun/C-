@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\Git\C++\baekjoon\15649_N과M\15649_N과M\main.cpp(24,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  15649_N과M.vcxproj -> D:\Git\C++\baekjoon\15649_N과M\Debug\15649_N과M.exe
