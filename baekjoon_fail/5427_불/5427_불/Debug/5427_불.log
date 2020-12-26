@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\source\5427_불\5427_불\main.cpp(17,8): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\source\5427_불\5427_불\main.cpp(25,8): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\source\5427_불\5427_불\main.cpp(41,9): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\source\5427_불\5427_불\main.cpp(51,9): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\source\5427_불\5427_불\main.cpp(117,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  5427_불.vcxproj -> D:\source\5427_불\Debug\5427_불.exe
