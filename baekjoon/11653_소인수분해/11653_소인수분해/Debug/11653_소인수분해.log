@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\Git\C++\baekjoon\11653_소인수분해\11653_소인수분해\main.cpp(26,7): warning C4101: 'primeArr' :참조되지 않은 지역 변수입니다.
+  11653_소인수분해.vcxproj -> D:\Git\C++\baekjoon\11653_소인수분해\Debug\11653_소인수분해.exe
