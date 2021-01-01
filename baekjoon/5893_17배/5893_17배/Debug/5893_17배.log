@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\source\5893_17배\5893_17배\main.cpp(65,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\source\5893_17배\5893_17배\main.cpp(73,24): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  5893_17배.vcxproj -> D:\source\5893_17배\Debug\5893_17배.exe
