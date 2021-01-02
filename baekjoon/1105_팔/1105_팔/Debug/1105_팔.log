@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\source\1105_팔\1105_팔\main.cpp(13,34): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  1105_팔.vcxproj -> D:\source\1105_팔\Debug\1105_팔.exe
