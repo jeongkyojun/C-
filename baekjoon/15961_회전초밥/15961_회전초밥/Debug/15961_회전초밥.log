@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\source\15961_회전초밥\15961_회전초밥\main.cpp(15,18): warning C4101: 'menu' :참조되지 않은 지역 변수입니다.
+  15961_회전초밥.vcxproj -> D:\source\15961_회전초밥\Debug\15961_회전초밥.exe
