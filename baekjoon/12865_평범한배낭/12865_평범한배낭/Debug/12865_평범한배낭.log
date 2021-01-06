@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\Git\C++\baekjoon\12865_평범한배낭\12865_평범한배낭\main.cpp(61,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  12865_평범한배낭.vcxproj -> D:\Git\C++\baekjoon\12865_평범한배낭\Debug\12865_평범한배낭.exe
