@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\source\2729_이진수덧셈\2729_이진수덧셈\main.cpp(22,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\source\2729_이진수덧셈\2729_이진수덧셈\main.cpp(30,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\source\2729_이진수덧셈\2729_이진수덧셈\main.cpp(46,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\source\2729_이진수덧셈\2729_이진수덧셈\main.cpp(103,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  2729_이진수덧셈.vcxproj -> D:\source\2729_이진수덧셈\Debug\2729_이진수덧셈.exe
