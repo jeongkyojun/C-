@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\source\2090_조화평균\2090_조화평균\main.cpp(22,11): warning C4244: '=': 'unsigned __int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  2090_조화평균.vcxproj -> D:\source\2090_조화평균\Debug\2090_조화평균.exe
