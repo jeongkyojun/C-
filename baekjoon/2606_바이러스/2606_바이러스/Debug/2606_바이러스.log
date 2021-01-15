@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\Git\C++\baekjoon\2606_바이러스\2606_바이러스\main.cpp(37,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\Git\C++\baekjoon\2606_바이러스\2606_바이러스\main.cpp(43,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  2606_바이러스.vcxproj -> D:\Git\C++\baekjoon\2606_바이러스\Debug\2606_바이러스.exe
