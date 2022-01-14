@@ -1,5 +1,2 @@
 ﻿  main.cpp
-D:\Git\C++\baekjoon\9184_신나는함수실행\9184_신나는함수실행\main.cpp(70,6): warning C4101: 'a' :참조되지 않은 지역 변수입니다.
-D:\Git\C++\baekjoon\9184_신나는함수실행\9184_신나는함수실행\main.cpp(70,9): warning C4101: 'b' :참조되지 않은 지역 변수입니다.
-D:\Git\C++\baekjoon\9184_신나는함수실행\9184_신나는함수실행\main.cpp(70,12): warning C4101: 'c' :참조되지 않은 지역 변수입니다.
-  9184_신나는함수실행.vcxproj -> D:\Git\C++\baekjoon\9184_신나는함수실행\Debug\9184_신나는함수실행.exe
+  9184_신나는함수실행.vcxproj -> D:\Git\C++\baekjoon_fail\9184_신나는함수실행\Debug\9184_신나는함수실행.exe
