@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\source\1541_잃어버린괄호\1541_잃어버린괄호\main.cpp(11,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\source\1541_잃어버린괄호\1541_잃어버린괄호\main.cpp(33,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  1541_잃어버린괄호.vcxproj -> D:\source\1541_잃어버린괄호\Debug\1541_잃어버린괄호.exe
