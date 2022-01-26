@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\source\15663_N과M(9)\15663_N과M(9)\main.cpp(19,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\source\15663_N과M(9)\15663_N과M(9)\main.cpp(45,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\source\15663_N과M(9)\15663_N과M(9)\main.cpp(53,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  15663_N과M(9).vcxproj -> D:\source\15663_N과M(9)\Debug\15663_N과M(9).exe
