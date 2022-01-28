@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\source\11660_구간합구하기5\11660_구간합구하기5\main.cpp(32,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\source\11660_구간합구하기5\11660_구간합구하기5\main.cpp(34,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  11660_구간합구하기5.vcxproj -> D:\source\11660_구간합구하기5\Debug\11660_구간합구하기5.exe
