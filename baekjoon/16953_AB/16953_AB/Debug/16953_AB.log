@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\source\16953_AB\16953_AB\main.cpp(33,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\source\16953_AB\16953_AB\main.cpp(51,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  16953_AB.vcxproj -> D:\source\16953_AB\Debug\16953_AB.exe
